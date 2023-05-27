@@ -1,6 +1,6 @@
 # ALX FILE MANAGER
 
-> This project implements: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
+> This project implements: Authentication, NodeJS, MongoDB, Redis, Pagination and Background processing.
 
 ## Objective
 
