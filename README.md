@@ -20,3 +20,5 @@ The objective is to build a simple platform to upload and view files:
 - Used promisify and bind
     - `promisify` converts functions with callback to promise based function
     - `bind` allows you maintain a consistent 'this' value and pre-define some arguments of a function, creates new function that expects the remaining arguments.
+
+### [1. MongoDB utils](./utils/db.js "db.js")
