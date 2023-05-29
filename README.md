@@ -22,3 +22,10 @@ The objective is to build a simple platform to upload and view files:
     - `bind` allows you maintain a consistent 'this' value and pre-define some arguments of a function, creates new function that expects the remaining arguments.
 
 ### [1. MongoDB utils](./utils/db.js "db.js")
+
+> `client = new MongoClient(); client.connect();`
+
+- nbUsers: returns number of documents in the users collection
+
+- nbFiles: returns number of documents in the files collection
+
